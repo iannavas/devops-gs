@@ -4,7 +4,7 @@ Este projeto consiste em uma aplicação Java (Spring Boot) conectada a um banco
 
 ## 📽️ Vídeo de Demonstração
 
-*Link para o vídeo:* [https://www.youtube.com/watch?v=PzzoKKlrZ9A&ab_channel=IanNavas]
+*Link para o vídeo:* https://www.youtube.com/watch?v=PzzoKKlrZ9A&ab_channel=IanNavas
 
 ---
 
